@@ -1,5 +1,5 @@
 # Fistful-of-Frags-fps-config
-An old project i will most likely not be finishing. 
+An old project i occasionally work on from time to time
 
 Place in C:\Program Files (x86)\Steam\steamapps\common\Fistful of Frags\fof\cfg
 
